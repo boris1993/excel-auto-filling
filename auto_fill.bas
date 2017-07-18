@@ -21,10 +21,8 @@ Attribute auto_fill.VB_ProcData.VB_Invoke_Func = " \n14"
         
         ' this is the actual filling rule
         ' modify to fit your need
-        Set rule = "(" + CStr(i) + ",1,a)"
-        
         ' Then we write the value into it
-        ActiveCell.FormulaR1C1 = rule
+        ActiveCell.FormulaR1C1 = "(" + CStr(i) + ",a,a)"
         
     Next i
     
