@@ -1,10 +1,10 @@
 # Auto Filling Script For Excel
-Auto filling cells in Excel
+Generate a bunch of data in Excel with given content
 
 ---
 
 ## Usage
-- Import the auto_fill.bas as a module in the Excel VBA
+- Import the data_generator.bas as a module in the Excel VBA
 - Edit the code to fit your requirements
 - Run it
 
