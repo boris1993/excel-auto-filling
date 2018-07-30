@@ -6,7 +6,7 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} frmGenerator
    ClientTop       =   390
    ClientWidth     =   4710
    OleObjectBlob   =   "frmGenerator.frx":0000
-   StartUpPosition =   1  '所有者中心
+   StartUpPosition =   1  'Centre of the owner
 End
 Attribute VB_Name = "frmGenerator"
 Attribute VB_GlobalNameSpace = False
