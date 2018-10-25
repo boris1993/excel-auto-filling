@@ -14,7 +14,9 @@ Generate a bunch of data in Excel with given content
 
 ### In the Windows version
 
-`TO BE COMPLETED`
+Goto "File" -> "Options" -> "Customize Ribbon"
+
+Under Customize the Ribbon and under Main Tabs, select the "Developer" check box
 
 ### In the Mac version
 Goto "Excel" -> "Preferences" -> "Ribbon & Toolbar"
@@ -35,7 +37,7 @@ Then tick "Developer"
 
 ![Open "Visual Basic"](images/open_vb.png)
 
-- Import data_generator.bas in Excel VBA
+- Import `data_generator.bas` in Excel VBA
 
 ![Import File](images/import_file.png)
 
@@ -55,13 +57,13 @@ Then tick "Developer"
 
 ### For the GUI version:
 
-`TO BE COMPLETED`
-
 **Seems the UserForm won't work in the Mac version Office**
 
-- Import frmGenerator.frm in Excel VBA
+- Import `frmGenerator.frm` in Excel VBA
 - Run the form and fill in the blanks
 - Click "Generate"
+
+![Filling with the GUI version](images/filling-gui.png)
 
 ---
 
